@@ -7,4 +7,4 @@
  * @version 1.0
  * @since 1.0
  */
-package cn.eros.data.highgo;
+package cn.eros.data.api.highgo;

@@ -1,4 +1,4 @@
-package cn.eros.data.highgo;
+package cn.eros.data.api.dm;
 
 import cn.eros.data.api.UserService;
 import cn.eros.data.domain.DocumentFlow;
@@ -16,7 +16,7 @@ import java.util.List;
 public class UserServiceImpl implements UserService {
     @Override
     public String getById(String userId) {
-        return "database: highgo";
+        return "database: dm";
     }
 
     @Override

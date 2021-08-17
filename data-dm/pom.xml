@@ -9,13 +9,13 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>cn.eros.data.dm</groupId>
+    <groupId>cn.eros.data.api.dm</groupId>
     <artifactId>data-dm</artifactId>
     <version>1.0.0</version>
 
     <dependencies>
         <dependency>
-            <groupId>cn.eros.data</groupId>
+            <groupId>cn.eros.data.api</groupId>
             <artifactId>data-api</artifactId>
             <version>1.0.0</version>
         </dependency>

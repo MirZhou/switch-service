@@ -15,12 +15,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>cn.eros.data</groupId>
-            <artifactId>data-api</artifactId>
-            <version>1.0.0</version>
-        </dependency>
-        <dependency>
-            <groupId>cn.eros.data.mysql</groupId>
+            <groupId>cn.eros.data.api.mysql</groupId>
             <artifactId>data-mysql</artifactId>
             <version>1.0.0</version>
         </dependency>
